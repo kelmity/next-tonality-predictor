@@ -1,4 +1,4 @@
-# 📰 News Sentiment Forecasting with LSTM
+# 📰 News Sentiment Forecasting with LSTM #TODO
 
 ## 📌 Описание проекта
 
